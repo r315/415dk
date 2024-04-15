@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=415dk.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=415dk.SchDoc|Designator=U_at32f415|SchDesignator=U_at32f415|FileName=at32f415_soc.SchDoc|SymbolType=Normal|RawFileName=at32f415_soc.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=415dk.SchDoc|Designator=U_jlink_f72|SchDesignator=U_jlink_f72|FileName=jlink_f72.SchDoc|SymbolType=Normal|RawFileName=jlink_f72.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=415dk.SchDoc|Designator=USB_HUB|SchDesignator=USB_HUB|FileName=usb_hub.SchDoc|SymbolType=Normal|RawFileName=usb_hub.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
